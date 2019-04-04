@@ -1,12 +1,14 @@
 # Whyireland Rice
 
+![alt text](screenshot.png)
+
 A rice made for myself, which will be named later
 
 ## Installation
 
 I used arch for making this rice, but it'll most likely work on other distros (anything with i3 gaps)
 
-```bash
+```
 1> Requirements:
 	i3lock-fancy-dualmonitor
 	compton
